@@ -9,7 +9,7 @@
  * <a href="https://adamcaudill.com/2016/02/02/plsql-developer-nonexistent-encryption/">Adam
  * Caudill</a>
  */
-public class PLSqlDeveloperProprietaryEncryptionUtil
+public final class PLSqlDeveloperProprietaryEncryptionUtil
 {
    private PLSqlDeveloperProprietaryEncryptionUtil()
    {
