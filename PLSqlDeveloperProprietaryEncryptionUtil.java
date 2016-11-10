@@ -1,5 +1,3 @@
-package eu.eurogate.gos.client;
-
 /**
  * Simple class to generate passwords for the plsql-developer (.connection) files. The Key is stored
  * within the password (first 4 digits). So since it does not really matters then, its can just be
